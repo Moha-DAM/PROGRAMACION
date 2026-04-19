@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="UD11_Modificable/src"/>
+	<classpathentry kind="output" path="UD11_Modificable/bin"/>
+</classpath>

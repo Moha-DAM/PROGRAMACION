@@ -1,0 +1,11 @@
+ Nombre: carpitaFichero
+ ultima modificacion: Fri Dec 19 19:19:04 CET 2025
+ Tamano: 0 bytes
+Numero de elementos: 1
+   Nombre: infoRecurso.txt
+   ultima modificacion: Fri Dec 19 18:43:02 CET 2025
+   Tamano: 0 bytes
+   Ejecutable: true
+   Permisos -> Lectura: true, Escritura: true
+
+
